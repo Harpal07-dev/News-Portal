@@ -11,7 +11,6 @@ Currently, two official plugins are available:
 # Project installation:
 
 Install project(zip file)</br>
-cd NewsPedia</br>
 npm install</br>
 npm run dev</br>
 
