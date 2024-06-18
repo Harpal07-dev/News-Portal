@@ -10,8 +10,8 @@ Currently, two official plugins are available:
 
 # Project installation:
 
-install project(zip file)
-cd NewsPedia
-npm install
-npm run dev
+install project(zip file)</br>
+cd NewsPedia</br>
+npm install</br>
+npm run dev</br>
 
